@@ -10,7 +10,7 @@ Website: https://citizen-history.com
 
 ---
 
-## Features
+## Function
 
 - Detects when a target process **gains or loses focus**
 - Sends a configurable **scan-code based hotkey**
@@ -19,6 +19,12 @@ Website: https://citizen-history.com
 - Debounce protection against focus spam (overlays, alt-tab storms)
 - Single-file EXE (self-contained, no .NET runtime required)
 - Simple external INI configuration (no recompilation needed)
+
+---
+
+### Screenshot
+
+![screenshot](screenshot1-1.png)
 
 ---
 
