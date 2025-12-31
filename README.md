@@ -6,7 +6,7 @@ when a specific application gains or loses focus.
 Originally built for **Star Citizen** to toggle head tracking (e.g. Shift + F11),
 but fully configurable and reusable for other applications.
 
-Website: https://citizen-history.com
+Website: [https://citizen-history.com](https://citizen-history.com/other/star-citizen-tobii-toggle-alt-tab-focus-lost)
 
 ---
 
