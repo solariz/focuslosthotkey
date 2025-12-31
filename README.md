@@ -45,5 +45,23 @@ Website: https://citizen-history.com
 The application **requires** a configuration file named `focuslosthotkey.ini` 
 in the same directory.
 
+You can easy change things in the ini file which is default like:
+
+```ini
+[Process]
+ProcessName = starcitizen
+ProcessRescanDelayMs = 2000
+
+[Hotkey]
+ScanCodeModifier = 0x2A   # Shift (0 = none)
+ScanCodeKey      = 0x57   # F11
+
+[Timing]
+DelayAfterFocusLostMs   = 100
+DelayAfterFocusGainedMs = 500
+DelayAfterInputMs       = 75
+FocusDebounceMs         = 300
+```
+
 //TODO: Add some example for other keybindings
 
